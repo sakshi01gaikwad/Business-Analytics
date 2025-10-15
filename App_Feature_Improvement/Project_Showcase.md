@@ -49,7 +49,7 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 | File | Description |
 |------|--------------|
 | `Jira_Board_Screenshot.png` | Screenshot of Jira backlog and sprint setup |
-| `User_Stories_Sample.docx` | Example user stories with acceptance criteria |
+| `User_Stories_Sample.png` | Example user stories with acceptance criteria |
 | `GitLab_Board_Integration.png` | Demonstrates workflow integration: Jira Scrum board linked with GitLab, including task tracking, version control, and sprint progress |
 
 
