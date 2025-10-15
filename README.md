@@ -23,7 +23,7 @@ I’m passionate about improving processes, analyzing data to inform decisions, 
 
 | Project | Description | Tools & Methods |
 |----------|--------------|----------------|
-| [**App Feature Improvement**](Project 1: App Feature Improvement/README.md) | Converted stakeholder video feedback into a structured Agile backlog using Jira. Created user stories, grouped them under Epics, and set up a sprint for tracking. | Jira · Scrum · Requirements Analysis |
+| [App Feature Improvement](Project1:AppFeatureImprovement/README.md) | Converted stakeholder video feedback into a structured Agile backlog using Jira. Created user stories, grouped them under Epics, and set up a sprint for tracking. | Jira · Scrum · Requirements Analysis |
 
 ---
 
@@ -44,6 +44,6 @@ Each project folder contains:
 
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/sakshi01gaikwad)  
-- ✉️ [Email Me](https://sakshi01gaikwad@gmail.com)  
+- ✉️ [Email Me](mailto:sakshi01gaikwad@gmail.com)  
 - 🗂️ [GitHub](https://github.com/sakshi01gaikwad)
 
