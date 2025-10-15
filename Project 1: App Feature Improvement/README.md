@@ -48,21 +48,22 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 
 | File | Description |
 |------|--------------|
-| `FSS_Improvement_Checklist.xlsx` | Detailed list of identified improvement areas |
-| `User_Stories_Sample.docx` | Example user stories with acceptance criteria |
 | `Jira_Board_Screenshot.png` | Screenshot of Jira backlog and sprint setup |
-| `Feedback_Notes.txt` | Summarized stakeholder feedback |
-| `Sprint_Plan.pdf` | Optional – Sprint goals and story prioritization |
+| `User_Stories_Sample.docx` | Example user stories with acceptance criteria |
+| `GitLab_Board_Integration.png` | Demonstrates workflow integration: Jira Scrum board linked with GitLab, including task tracking, version control, and sprint progress |
 
 
 ## 🖼 Screenshots
 
 ### Jira Board
-![Jira Board]()
 <img width="1616" height="808" alt="Jira_Board_Screenshot" src="https://github.com/user-attachments/assets/6ae7306d-3284-4f1a-9bd7-05ecb5e9a0e5" />
 
+### User Stories Sample
+<img width="352" height="552" alt="User Stories Sample" src="https://github.com/user-attachments/assets/dbf2c1d0-ab89-4686-b5d2-67d235ecd8e5" />
+
 ### GitLab Board
-![GitLab Board](<img width="1915" height="863" alt="GitLab_Board_Screenshot" src="https://github.com/user-attachments/assets/a14bc4c0-0f69-428d-87c9-dd02025bfb1c" />)
+<img width="1915" height="863" alt="GitLab_Board_Screenshot" src="https://github.com/user-attachments/assets/a14bc4c0-0f69-428d-87c9-dd02025bfb1c" />
+
 
 ---
 
