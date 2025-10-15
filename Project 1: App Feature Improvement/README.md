@@ -58,10 +58,11 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 ## 🖼 Screenshots
 
 ### Jira Board
-![Jira Board](Jira_Board_Screenshot.png)
+![Jira Board]()
+<img width="1616" height="808" alt="Jira_Board_Screenshot" src="https://github.com/user-attachments/assets/6ae7306d-3284-4f1a-9bd7-05ecb5e9a0e5" />
 
 ### GitLab Board
-![GitLab Board](GitLab_Board_Screenshot.png)
+![GitLab Board](<img width="1915" height="863" alt="GitLab_Board_Screenshot" src="https://github.com/user-attachments/assets/a14bc4c0-0f69-428d-87c9-dd02025bfb1c" />)
 
 ---
 
@@ -77,8 +78,8 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 **Sakshi Gaikwad**  
 *Business Analyst | Data Analyst | Agile Enthusiast*  
 
-📫 [LinkedIn](linkedin.com/in/sakshi01gaikwad)  
-✉️ [Email](sakshi01gaikwad@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/sakshi01gaikwad) 
+✉️ [Email Me](mailto:sakshi01gaikwad@gmail.com)
 
 ---
 
