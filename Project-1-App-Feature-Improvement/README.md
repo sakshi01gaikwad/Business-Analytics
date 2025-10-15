@@ -1,4 +1,4 @@
-# 📱 Project 1: App Feature Improvement
+# 📱 Project: App Feature Improvement
 
 
 ## 📘 Project Overview
