@@ -1,5 +1,6 @@
 # 💼 Sakshi Gaikwad — Business Analyst Portfolio
 
+
 ## 👋 About Me
 Versatile **Business Analyst** with experience translating stakeholder needs into actionable insights and structured Agile deliverables.  
 Skilled at bridging business goals with data-driven solutions and cross-functional collaboration.  
@@ -38,16 +39,6 @@ I’m passionate about improving processes, analyzing data to inform decisions, 
 Each project folder contains:
 - A dedicated `README.md` describing the project’s background, objectives, and process  
 - Supporting artifacts such as screenshots, checklists, reports, or dashboards  
-
-Example structure:
-Business-Analyst-Portfolio/
-├── README.md
-├── FSS-App-Group-Feature-Improvement/
-│ ├── README.md
-│ ├── FSS_Improvement_Checklist.xlsx
-│ ├── Jira_Board_Screenshot.png
-│ └── User_Stories_Sample.docx
-└── (future projects…)
 
 ---
 
