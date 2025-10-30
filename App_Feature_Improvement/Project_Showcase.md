@@ -62,7 +62,7 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 <img width="352" height="552" alt="User Stories Sample" src="https://github.com/user-attachments/assets/dbf2c1d0-ab89-4686-b5d2-67d235ecd8e5" />
 
 ### GitLab Board
-<img width="1915" height="863" alt="GitLab_Board_Screenshot" src="https://github.com/user-attachments/assets/a14bc4c0-0f69-428d-87c9-dd02025bfb1c" />
+<img width="1908" height="990" alt="GitLab_Board_Screenshot_updated" src="https://github.com/user-attachments/assets/c8ddfe52-74f0-46df-ad91-a7f72e0b9387" />
 
 
 ---
