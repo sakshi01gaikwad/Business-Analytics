@@ -1,5 +1,5 @@
-# 💼 Sakshi Gaikwad — Business Analytics Portfolio
-
+# 💼 Business Analytics Portfolio
+## Author: Sakshi Gaikwad
 
 ## 👋 About Me
 Versatile **Business Analyst** with experience translating stakeholder needs into actionable insights and structured Agile deliverables.  
