@@ -1,4 +1,4 @@
-# 💼 Sakshi Gaikwad — Business Analyst Portfolio
+# 💼 Sakshi Gaikwad — Business Analytics Portfolio
 
 
 ## 👋 About Me
