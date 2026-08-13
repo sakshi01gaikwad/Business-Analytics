@@ -33,6 +33,18 @@ Extract and categorize improvement points from the feedback, then structure them
 Delivered a clear, traceable, and collaborative improvement backlog that enhanced coordination between the BA and development teams.  
 The integration with GitLab reduced manual updates, ensured consistent version control, and supported real-time tracking of sprint progress.
 
+*Scope note: This project covers backlog creation through developer handoff. 
+UAT and release validation are demonstrated in a separate portfolio project.*
+
+
+## 📋 Decision Log
+
+| Decision | Rationale |
+|---|---|
+| Grouped stories under "Landing Page" and "Side Screen" Epics rather than by feature type | Aligned backlog structure to how developers would sequence UI work, reducing handoff ambiguity |
+| Excluded minor cosmetic requests (e.g., icon styling) from Sprint 1 | Kept sprint scope focused on functional gaps; deferred to backlog for later prioritization |
+| Integrated GitLab rather than tracking only in Jira | Stakeholder/dev team needed a single source of truth linking issues to commits — avoided duplicate manual updates |
+
 ---
 
 ## 🛠️ Tools & Techniques
@@ -77,7 +89,7 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 
 ## 👩‍💻 Author
 **Sakshi Gaikwad**  
-*Business Analyst | Data Analyst | Agile Enthusiast*  
+*Senior Business Analyst | Agile Delivery | Requirements & Stakeholder Management*  
 
 📫 [LinkedIn](https://linkedin.com/in/sakshi01gaikwad) 
 ✉️ [Email Me](mailto:sakshi01gaikwad@gmail.com)
