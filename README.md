@@ -2,20 +2,26 @@
 ## Author: Sakshi Gaikwad
 
 ## 👋 About Me
-Versatile **Business Analyst** with experience translating stakeholder needs into actionable insights and structured Agile deliverables.  
-Skilled at bridging business goals with data-driven solutions and cross-functional collaboration.  
-Proficient in **Jira, Confluence, SQL, Excel, Power BI, and Agile frameworks (Scrum/Kanban)**.  
+Business Analyst with experience translating ambiguous stakeholder needs into clear, 
+actionable Agile deliverables. Skilled at bridging business goals with technical 
+delivery from requirements elicitation and BRD/FRD documentation through backlog 
+grooming, UAT leadership, and release validation.
 
-I’m passionate about improving processes, analyzing data to inform decisions, and enabling teams to deliver value efficiently.
+Proficient in Jira, Confluence, SQL, Excel, Agile frameworks (Scrum/Kanban) and Waterfall.
+
+I'm passionate about reducing ambiguity early, keeping business and technical teams 
+aligned, and making sure what ships actually meets the acceptance criteria we agreed on.
 
 ---
 
 ## 🧰 Core Skills
-- **Requirements Analysis & Documentation** – User stories, acceptance criteria, BRDs, process maps  
-- **Agile Project Management** – Jira backlog creation, sprint setup, Scrum ceremonies  
-- **Data Analytics & Reporting** – SQL, Excel, Power BI dashboards, KPIs  
-- **Stakeholder Management** – Feedback analysis, prioritization, communication  
+- **Requirements Analysis & Documentation** – User stories, acceptance criteria, BRDs/FRDs/NFDs, process maps, decision logs 
+- **Agile Project Management** – Backlog grooming, epics, sprint setup, Scrum ceremonies
+- **UAT & Release Validation** – Test case design mapped to acceptance criteria, QA/sign-off coordination, post-launch monitoring
+- **Stakeholder Management** – Requirements elicitation, SME interviews, cross-functional alignment (Design & Engineering)
+ Feedback analysis, prioritization, communication
 - **Process Improvement** – Gap analysis, root cause identification, workflow optimization  
+- **Data Validation** – Basic SQL for data analysis and validation
 
 ---
 
@@ -28,10 +34,10 @@ I’m passionate about improving processes, analyzing data to inform decisions, 
 ---
 
 ## 🧠 What This Portfolio Demonstrates
-- Ability to **analyze qualitative & quantitative feedback**  
-- Experience with **Agile project delivery and backlog management**  
-- Skill in **data visualization and analytical storytelling**  
-- Strong foundation in **communication, documentation, and collaboration**
+- Ability to convert ambiguous stakeholder input into structured, actionable requirements
+- Experience owning Agile delivery — backlog grooming, sprint ceremonies, and unblocking teams
+- Skill in leading UAT and release validation, from test cases through sign-off
+- Strong foundation in stakeholder communication, documentation, and cross-functional alignment
 
 ---
 
