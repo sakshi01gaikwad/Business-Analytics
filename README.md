@@ -29,7 +29,9 @@ aligned, and making sure what ships actually meets the acceptance criteria we ag
 
 | Project | Description | Tools & Methods |
 |----------|--------------|----------------|
-[App Feature Improvement](App_Feature_Improvement/Project_Showcase.md)| Converted stakeholder video feedback into a structured Agile backlog using Jira. Created user stories, grouped them under Epics, and set up a sprint for tracking. | Jira · Scrum · Requirements Analysis |
+[App Feature Improvement](App_Feature_Improvement/Project_Showcase.md)| Converted stakeholder video feedback into a structured Agile backlog using Jira — 
+includes user stories, Epics, sprint setup, and a documented decision log for prioritization calls.
+
 
 ---
 
