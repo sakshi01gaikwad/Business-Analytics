@@ -36,6 +36,7 @@ The integration with GitLab reduced manual updates, ensured consistent version c
 *Scope note: This project covers backlog creation through developer handoff. 
 UAT and release validation are demonstrated in a separate portfolio project.*
 
+---
 
 ## 📋 Decision Log
 
